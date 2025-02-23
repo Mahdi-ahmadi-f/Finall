@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gI2ziRXzTtk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mmdhn\\Desktop\\CSV Form\\Final_Project_Dev\\CSV_FORM\\CSV_FORM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mmdhn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\mmdhn\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\mmdhn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\mmdhn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
